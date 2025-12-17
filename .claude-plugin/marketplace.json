@@ -5,8 +5,8 @@
   },
   "plugins": [
     {
-      "name": "code-formatter",
-      "source": "./path/to/plugin"
+      "name": "research-news",
+      "source": "./skills/research-news"
     }
   ]
 }
