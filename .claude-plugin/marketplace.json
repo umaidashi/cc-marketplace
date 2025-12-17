@@ -1,0 +1,12 @@
+{
+  "name": "umaidashi-tools",
+  "owner": {
+    "name": "umaidashi"
+  },
+  "plugins": [
+    {
+      "name": "code-formatter",
+      "source": "./path/to/plugin"
+    }
+  ]
+}
